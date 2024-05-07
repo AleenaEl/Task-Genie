@@ -1,0 +1,12 @@
+body {
+   margin: 0;
+  background: linear-gradient(to right, #2e2243, #1f1c30, #161616);
+  font-family: "Euclid Circular A", "Poppins";
+  color: #d6dfed;
+  /* background-color: antiquewhite;  */
+}
+
+html,
+body {
+  height: 100%;
+}
